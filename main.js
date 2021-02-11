@@ -1,7 +1,7 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = 'Jose';
+let myFirstName = 'Jose ';
 let myLastName = 'Bosquez';
 let myBestFriend = 'WOOBEN';
 let mySentence = (myFirstName + myBestFriend + '.');
@@ -12,10 +12,11 @@ let myFavoriteYear = 2018;
 let mySum = 3 + 1918 + 24 + 1;
 let myProduct = 232 * 43 / 2 + 4;
 let myHeightAndAge = (myMentalAge + myHeight)
-mySum;
-myProduct;
-myHeightAndAge;
 
+console.log(mySum)
+console.log(myProduct)
+console.log(myHeightAndAge)
+console.log (mySentence)
 
 
 /*********************************************************************************************************************
