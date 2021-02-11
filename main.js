@@ -1,10 +1,10 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = 'Jose ';
+let myFirstName = 'Jose';
 let myLastName = 'Bosquez';
 let myBestFriend = 'WOOBEN';
-let mySentence = (myFirstName + myBestFriend + '.');
+let mySentence = (myFirstName + ' ' + myLastName);
 let myFavoriteNum = (17);
 let myMentalAge = (25);
 let myHeight = (6);
